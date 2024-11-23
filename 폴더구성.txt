@@ -12,6 +12,8 @@
       SearchBar.jsx
       ProductCard.jsx
       CartPopup.jsx
+      TextboxInfo.jsx
+      
     /organisms
       Header.jsx
       Footer.jsx
